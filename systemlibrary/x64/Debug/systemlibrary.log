@@ -1,0 +1,6 @@
+﻿  main.cpp
+  system_info.cpp
+C:\Users\logbaby\Desktop\C++\systemlib\systemlib\system_info.cpp(112,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\logbaby\Desktop\C++\systemlib\systemlib\system_info.cpp(139,21): warning C4476: "wprintf": неизвестный символ поля типа "U" в описателе формата
+  Создание кода...
+  systemlibrary.vcxproj -> C:\Users\logbaby\Desktop\C++\systemlibrary\x64\Debug\systemlibrary.exe
